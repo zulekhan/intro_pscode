@@ -1,4 +1,9 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
-# ------------------------------------------------- #
+#------------------------------------------------- #
+1. The player starts at a location in the warehouse.
+2. The player can move in four directions: North, South, East, or West.
+3. The goal is to reach a specific target location.
+4. After each move, show the player's current location.
+5. Keep asking for directions until the player reaches the target.
 

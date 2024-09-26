@@ -2,3 +2,10 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+1. Start counting packages.
+2. Every package has 2 products.
+3. Print the total number of products after each package.
+4. Stop when you reach 50 products.
+
+
+
